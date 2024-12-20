@@ -3,17 +3,21 @@
       {
         "id": 1,
         "title": "Hello World",
-        "body": "This is the first post in our blog."
+        "body": "This is the first post in our blog.",
+        "image":"https://th.bing.com/th/id/R.4f65253bbd771a0566d220ac03b8d15b?rik=o1KLU%2b1g%2bPkPrg&pid=ImgRaw&r=0"
       },
       {
         "id": 2,
         "title": "Learning Sequelize",
-        "body": "In this post, we dive into Sequelize ORM."
+        "body": "In this post, we dive into Sequelize ORM.",
+        "image":"https://th.bing.com/th/id/OIP.4IJ8hNyMNFUIR4SaDocfyQHaEK?w=268&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
       },
       {
         "id": 3,
         "title": "Advanced Topics",
-        "body": "Let's explore advanced topics in programming."
+        "body": "Let's explore advanced topics in programming.",
+        "image":"https://th.bing.com/th/id/OIP.9DCnI3IZHnsTR-cB3k0GMAHaD4?w=338&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
       }
     ],
   
